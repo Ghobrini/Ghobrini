@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghobrini" alt="Ghobrini" /> </p>
 <h1 align="center">Hi 👋, I'm ghobrin abdelkader </h1>
-<h2 align="center">A lead Back-end Developer at NEO Finetech</h3>
+<h2 align="center">A Back-end Developer at NEO Finetech</h3>
 
 <h3 align="center"> With the addition of the general programming notions I have acquired through my University years, I have actively worked and collaborated, in developing the backend of a large SaaS application at a local startup. </h2>
 
