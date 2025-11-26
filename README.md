@@ -1,67 +1,80 @@
-# Abdelkader Ghobrini
-**Backend Engineer | Python Expert | AI Code Evaluator**
+<h1 align="center">Hi, I'm Abdelkader Ghobrini 👋</h1>
+<h3 align="center">Backend Engineer & Python Specialist</h3>
 
-[![Email](https://img.shields.io/badge/Email-ghob.abdelkader@gmail.com-blue?style=flat&logo=gmail)](mailto:ghob.abdelkader@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghob-aek)
-[![Phone](https://img.shields.io/badge/Phone-%2B213%20658%20968%20472-green?style=flat&logo=whatsapp)](tel:+213658968472)
-
-## 👨‍💻 Technical Profile
-
-**Languages:** Python, JavaScript, SQL  
-**Frameworks & Technologies:** Django, Flask, Django REST Framework, RESTful APIs, GraphQL, Microservices  
-**Databases & Messaging:** PostgreSQL, MySQL, SQLite, Elasticsearch, Redis, RabbitMQ, Kafka, Apache Pulsar  
-**DevOps & Cloud:** Docker, AWS (EC2, S3), Jenkins, GitHub Actions, Celery, CI/CD  
-**Expertise:** Backend Architecture, Performance Optimization, Real-time Data Streaming, Team Leadership
-
-## 🚀 Key Achievements
-
-- **Led a team of 4 backend developers**, reducing project delivery timelines by 25% while maintaining high code quality standards
-- **Designed and deployed scalable systems** using Django & Flask supporting thousands of concurrent users
-- **Implemented real-time data streaming pipelines** with Kafka & Apache Pulsar for event-driven architectures
-- **Optimized database performance** through PostgreSQL partitioning and Redis caching, reducing query latency by ~40%
-- **Mentored junior engineers** and established code review practices that improved team productivity
-
-## 💡 Code Evaluation & AI Training Focus
-
-As an experienced backend engineer with deep Python expertise, I'm passionate about:
-- **Code Quality & Best Practices:** Evaluating algorithmic efficiency, code structure, and adherence to Pythonic principles
-- **Technical Accuracy:** Fact-checking and verifying code against official documentation and industry standards
-- **AI Training:** Providing expert feedback to improve LLM-generated code for functionality, efficiency, and security
-- **Knowledge Sharing:** Clearly explaining complex programming concepts and optimization techniques
-
-## 📊 Technical Evaluation Skills
-
-- **Algorithm Analysis:** Time/space complexity optimization (Big O)
-- **Code Review:** Identifying security vulnerabilities, performance bottlenecks, and maintainability issues
-- **Testing & Validation:** Ensuring code correctness across edge cases and real-world scenarios
-- **Architecture Assessment:** Evaluating system design decisions and scalability considerations
-
-## 🏆 Experience Highlights
-
-### Backend Developer | Skyloov, Dubai *(Nov 2024 – June 2025)*
-- Built real-time data streaming pipelines using Kafka & Apache Pulsar
-- Enhanced microservice performance through database optimization and caching strategies
-
-### Lead Backend Developer | KIO, Algeria *(Apr 2021 – Sep 2024)*
-- Led development team delivering large-scale projects ahead of schedule
-- Architected scalable backend systems and optimized API endpoints (35% response time improvement)
-- Integrated complex systems including payment gateways and CRM platforms
-
-### Backend Developer | GISB Africa, Algeria *(Aug 2020 – Apr 2021)*
-- Developed integrations with logistics, HR, and accounting systems
-- Built custom project management platform increasing team productivity by 30%
-
-## 📚 Education & Certifications
-
-- **Master's in Computer Networking** – Université Abdelhamid Ibn Badis, Mostağanem
-- **Cisco Certified Network Associate (CCNA)** – INSIM Oran
-
-## 🌐 Languages
-
-- **English:** Professional
-- **French:** Professional  
-- **Arabic:** Fluent
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghob-aek/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ghob.abdelkader@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-*Open to opportunities in AI code evaluation, backend engineering, and technical leadership roles where I can leverage my Python expertise and code quality focus.*
+## 🛠️ Tech Stack
+
+### **Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Databases & Messaging**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghob-aek&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghob-aek&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### 🔥 Recent Achievements
+- **Led team of 4 developers** - reduced delivery timelines by 25% while maintaining code quality
+- **Optimized PostgreSQL + Redis** - achieved ~40% reduction in query latency
+- **Built real-time data pipelines** with Kafka & Apache Pulsar for event-driven architectures
+- **Scaled Django/Flask systems** to handle thousands of concurrent users
+
+### 🏢 Professional Journey
+```python
+class ProfessionalExperience:
+    def __init__(self):
+        self.current = {
+            "role": "Backend Developer",
+            "company": "Skyloov, Dubai",
+            "focus": ["Real-time Data Streaming", "Microservices", "Performance Optimization"],
+            "tech": ["Python", "Kafka", "Apache Pulsar", "PostgreSQL", "Redis"]
+        }
+        
+        self.previous = [
+            {
+                "role": "Lead Backend Developer",
+                "company": "KIO, Algeria", 
+                "duration": "3.5 years",
+                "achievements": ["Team Leadership", "System Architecture", "API Optimization"]
+            },
+            {
+                "role": "Backend Developer", 
+                "company": "GISB Africa, Algeria",
+                "duration": "9 months",
+                "focus": ["System Integration", "Custom Platform Development"]
+            }
+        ]
