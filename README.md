@@ -36,14 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghob-aek&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghob-aek&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ## 💼 Experience Highlights
 
